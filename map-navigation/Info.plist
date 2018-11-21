@@ -45,5 +45,9 @@
 	<string>pk.eyJ1Ijoibmlja2ktcGFya2VyIiwiYSI6ImNqbm9venc2eDF5N2gza2w3Z252NnNocncifQ.p23RC5ZJV-5WlbaoUiBL6Q</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Shows your location on the map and helps improve OpenStreetMap.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+	</array>
 </dict>
 </plist>
