@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  map-navigation
 //
-//  Created by JODIE PARKER on 21/11/2018.
+//  Created by Nicki Parker on 21/11/2018.
 //  Copyright © 2018 Nickiparker. All rights reserved.
 //
 
